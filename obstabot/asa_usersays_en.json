@@ -1,0 +1,97 @@
+[
+  {
+    "id": "d7ef95b4-bc1c-422a-a00a-b08ef5735cae",
+    "data": [
+      {
+        "text": "trump",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55838a40-b8d2-4dea-859f-1c27081fa29d",
+    "data": [
+      {
+        "text": "president",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f177e988-b5b0-408e-8bd3-fdf8d9f82739",
+    "data": [
+      {
+        "text": "biden",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c37bb68e-5c45-4634-9fcb-53c003bc07e2",
+    "data": [
+      {
+        "text": "asa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51b76e51-bf81-43d1-bba0-d1b12b37780e",
+    "data": [
+      {
+        "text": "governor hutchinson",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d188bb2e-28b5-46b8-8640-c5afdb963913",
+    "data": [
+      {
+        "text": "governor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c453d34-c5e3-4b16-945f-8d8c6f3239a4",
+    "data": [
+      {
+        "text": "asa hutchinson",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
